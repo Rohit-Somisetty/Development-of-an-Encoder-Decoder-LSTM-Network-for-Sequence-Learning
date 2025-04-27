@@ -48,4 +48,4 @@ Both models learned the arithmetic tasks successfully, reaching **~96-97% accura
 
 ## 📈 Visuals
 
-[Model Accuracy Comparison](accuracy_plot.png)
+![Model Accuracy Comparison](accuracy_plot.png)
