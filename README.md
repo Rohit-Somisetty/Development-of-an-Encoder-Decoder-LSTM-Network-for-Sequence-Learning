@@ -51,10 +51,4 @@ The loss function used is categorical cross-entropy, optimized with Adam[cite: 1
 
 Both the baseline model and the model trained on reversed sequences achieve high test accuracy, around 96-97%[cite: 13]. The visualization comparing validation accuracies suggests that reversing the sequences might lead to slightly faster convergence or better final performance in this specific task[cite: 20].
 
-## How to Run
 
-1.  **Prerequisites:** Ensure you have Python and the necessary libraries installed (TensorFlow/Keras, NumPy, Scikit-learn, Matplotlib).
-    ```bash
-    pip install tensorflow numpy scikit-learn matplotlib
-    ```
-2.  **Execute Notebook:** Run the Jupyter Notebook `Assignment_9 (2).ipynb` (based on the provided PDF name) cell by cell to generate data, build the models, train them, and visualize the results.
