@@ -37,11 +37,6 @@ Why reverse? Sometimes, reversing the input creates shorter dependencies between
 * Scikit-learn
 * Matplotlib
 
-*(You could add badges here if you like, e.g., using shields.io)*
-*Example:*
-`![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)`
-`![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)`
-
 ## 📊 Results & Insights
 
 Both models learned the arithmetic tasks successfully, reaching **~96-97% accuracy** on unseen test problems! The comparison plot (see below) suggests that the model trained on reversed sequences might converge slightly faster or achieve marginally better validation accuracy.
